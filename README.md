@@ -47,3 +47,13 @@ clean up binary from the last build
 ```bash
 make clean
 ```
+
+Migrate up
+```bash
+make migrate_up
+```
+
+Migrate down
+```bash
+make migrate_down
+```
