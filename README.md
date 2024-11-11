@@ -1,4 +1,4 @@
-# Project tourism-be
+# Project [NAME HERE]
 
 One Paragraph of project description goes here
 
